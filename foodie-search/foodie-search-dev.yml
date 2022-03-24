@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      repositories:
+        enabled: true  #打开elasticsearch仓库，默认true
